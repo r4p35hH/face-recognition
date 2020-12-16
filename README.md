@@ -1,2 +1,2 @@
 # face-recognition
-multiple face recognition
+multiple face recognition using opencv
